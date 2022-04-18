@@ -2,4 +2,4 @@
 
 ## CKA 준비
 
-- 
+- k8s basic
